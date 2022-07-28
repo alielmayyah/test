@@ -7,6 +7,7 @@ int main()
 	z = x + y;
 	cout << z;
 	char u;
+	cout << z;
 
 
 
