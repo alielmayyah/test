@@ -8,6 +8,7 @@ int main()
 	cout << z;
 	char u;
 	cout << z;
+	cout << endl; 
 
 
 
