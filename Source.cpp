@@ -6,7 +6,9 @@ int main()
 
 	int x = 5, y=3, z;
 	z = x + y;
-	cout << z;
+	cout << x;
+	cout << y;
 	cout << z;
 	cout << endl; 
+	
 }
